@@ -8,14 +8,11 @@ The Flutter Dice App is a simple mobile application developed using the Flutter 
 
 ## Features
 
-- Simulates the rolling of two dice.
+- Simulates the rolling of dice.
 - Provides a random result for each die.
 - Intuitive user interface.
 
-## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
 
 ## Getting Started
 
@@ -28,8 +25,7 @@ The Flutter Dice App is a simple mobile application developed using the Flutter 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/flutter-dice-app.git
-    cd flutter-dice-app
+  https://github.com/KiranYarashi/Dice_App-Flutter-.git
     ```
 
 2. Install dependencies:
@@ -57,6 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the Flutter community for the amazing framework.
 - Dice icons by [FontAwesome](https://fontawesome.com/icons/dice).
 
-## Contact
 
-For any inquiries, please contact [Your Name] - your.email@example.com.
