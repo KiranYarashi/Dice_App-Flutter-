@@ -4,7 +4,7 @@
 
 ## Description
 
-The Flutter Dice App is a simple mobile application developed using the Flutter framework. It simulates the rolling of a pair of dice and provides a random result, just like rolling physical dice.
+The Flutter Dice App is a simple mobile application developed using the Flutter framework. It simulates the rolling of a  dice and provides a random result, just like rolling physical dice.
 
 ## Features
 
