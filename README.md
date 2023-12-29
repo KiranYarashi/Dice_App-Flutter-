@@ -25,7 +25,7 @@ The Flutter Dice App is a simple mobile application developed using the Flutter 
 1. Clone the repository:
 
     ```bash
-  https://github.com/KiranYarashi/Dice_App-Flutter-.git
+      https://github.com/KiranYarashi/Dice_App-Flutter-.git
     ```
 
 2. Install dependencies:
